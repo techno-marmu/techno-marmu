@@ -4,7 +4,7 @@
 <p align="center"> 🎭 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&width=800&lines=Return+Of++M+A++R++M++U" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&width=800&lines=Return;Of;+M+A++R++M++U" alt="Typing SVG">
 </p>
 <p align="Typing">
 <img
