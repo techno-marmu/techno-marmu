@@ -4,15 +4,14 @@
 <p align="center"> 🎭 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&width=800&lines=Return+Of++M+A++R++M++U" alt="Typing SVG">
+</p>
+<p align="Typing">
 <img
-src="https://readme-typing-svg.herokuapp.com/?font=Comic+Sans+MS&size=40&duration=3000&color=FFEB3B&width=800&lines=Welcome,+To+My+GitHub+Profile,++Return+Of++M+A++R++M++U"
+src="https://readme-typing-svg.herokuapp.com/?font=Comic+Sans+MS&size=40&duration=3000&color=FFEB3B&width=800&lines=Welcome,+To+My+GitHub+Profile;🇲🇲;++🇲🇲+🇬🇧+🇺🇸+🏴‍☠️+🇲🇲"
             alt="Typing SVG"
         />
     </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&width=800&lines=🇲🇲;++🇲🇲+🇬🇧+🇺🇸+🏴‍☠️+🇲🇲" alt="Typing SVG">
 </p>
 
 
@@ -40,7 +39,7 @@ src="https://readme-typing-svg.herokuapp.com/?font=Comic+Sans+MS&size=40&duratio
 <img src="./twitter.png" width=50 height=50 alt="the_marmu____" style="margin-bottom: 5px;" />
 </a> -->
 
-<a href="https://www.instagram.com/the_marmu____" target="_blank">
+<a href="https://www.instagram.com/the_marmu____" target="">
 <img src="./instagram.png" width=50 height=50 alt="ℝ𝕖𝕥𝕦𝕣𝕟 𝕠𝕗 𝕄𝕒𝕣𝕄𝕦" style="margin-bottom: 5px;" />
 </a>
 
