@@ -19,12 +19,14 @@ src="https://readme-typing-svg.herokuapp.com/?font=Comic+Sans+MS&size=40&duratio
 [![](https://img.shields.io/badge/MARMU-MYANMAR-orange?style=for-the-badge&logoColor=red&labelColor=black)](https://github.com/techno-marmu) 
 
 
-![marmu](https://giphy.com/gifs/code-cyber-myanmar-hovfDaAqV4GwxgSyv8)
+![marmu](./marmu-dev.gif)
 
-
-<img src="https://giphy.com/gifs/coding-marmu-PzmDnnjQR8cCP2VVY1" alt="" border="0" high="305" width="350" />
-
-
+<p align="center">
+<img src=".github/marmu-dev.gif" high="305" width="350" 
+    />
+</p>
+  
+<img src="https://giphy.com/gifs/coding-marmu-PzmDnnjQR8cCP2VVY1" alt="" border="0" high="305" width="350"     />
 
 
 <!--Contact Section-->
@@ -33,7 +35,7 @@ src="https://readme-typing-svg.herokuapp.com/?font=Comic+Sans+MS&size=40&duratio
 <div align="center">
   
 <a href="mailto:service.slandro.official@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="service.slandro.official@gmail.com" style="margin-bottom: 5px;" />
+<img src="./.github/gmail.png" width=50 height=50 alt="service.slandro.official@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 <!-- <a href="https://x.com/the_marmu____" target="_blank">
@@ -51,7 +53,7 @@ src="https://readme-typing-svg.herokuapp.com/?font=Comic+Sans+MS&size=40&duratio
 
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font    <img href="https://img.shields.io/badge/-Go-%231572B6?style=flat-square&logo=goi&logoColor=ffffff">
+    <img src="https://readme-typing-svg.demolab.com?font  />       <img src="https://img.shields.io/badge/-Go-%231572B6?style=flat-square&logo=goi&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Rust-%2300C7B7?style=flat-square&logo=rust&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Python-%23E44D27?style=flat-square&logo=python&logoColor=ffffff">
 </a>
@@ -59,14 +61,20 @@ src="https://readme-typing-svg.herokuapp.com/?font=Comic+Sans+MS&size=40&duratio
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+
+
 </div>
 <h3 align="left">Current Learning</h3>
+
+_Digital Craftsman
+Ai Technologist (Developer / Programmer)_
+
 <ul align="left">
   <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+  <li>Exploring React.js patterns and state management techniques.</li>
+  <li>Improving my skills in G.cloud and Azure.</li>
 </ul>
-_Digital Craftsman (Developer / Programmer)_
+
 <br />
 
 
@@ -102,8 +110,7 @@ href="https://www.mathworks.com/" target="_blank"> </a> <a href="https://www.mys
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learn to collaborate onhelp
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
