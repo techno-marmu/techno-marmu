@@ -99,13 +99,11 @@ href="https://www.mathworks.com/" target="_blank"> </a> <a href="https://www.mys
 
 ![](https://img.shields.io/badge/Facebook-Techonology_By_MarMu-blue?style=for-the-badge&logo=facebook.svg)
 
+![marmu](.github/skill-marmu.gif)
 
 <p align="center">
 <img src=".github/skill-martmu.gif" high="305" width="350" 	
-    />
-	
-![marmu](./skill-marmu.gif)
-
+    />	
 </p>  
 
 <p align="left" <a
