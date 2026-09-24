@@ -28,7 +28,6 @@ src="https://readme-typing-svg.herokuapp.com/?font=Comic+Sans+MS&size=40&duratio
   
 <img src="https://giphy.com/gifs/coding-marmu-PzmDnnjQR8cCP2VVY1" alt="" border="0" high="305" width="350"     />
 
-
 <!--Contact Section-->
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ </h2>
@@ -70,24 +69,25 @@ src="https://readme-typing-svg.herokuapp.com/?font=Comic+Sans+MS&size=40&duratio
 
 </a>
 
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-
 
 </div>
-<h3 align="left">Current Learning</h3>
+<h3 align="left">💻 LEARNING </h3>
 
-_Digital Craftsman
-Ai Technologist (Developer / Programmer)_
+![marmu](.github/skill-marmu.gif)
+
+_Digital Craftsman_
+👾 Ai Technologist  
+👨‍💻 Developer 
+🎖️ Programmer
 
 <ul align="left">
   <li>Deepening my knowledge in Machine Learning and AI.</li>
   <li>Exploring React.js patterns and state management techniques.</li>
   <li>Improving my skills in G.cloud and Azure.</li>
 </ul>
-
-<br />
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 
 <!--
 <div align="center" />
@@ -99,10 +99,12 @@ href="https://www.mathworks.com/" target="_blank"> </a> <a href="https://www.mys
 
 ![](https://img.shields.io/badge/Facebook-Techonology_By_MarMu-blue?style=for-the-badge&logo=facebook.svg)
 
-![marmu](.github/skill-marmu.gif)
+
+</div>
+<h3 align="left">🦋KNOWLEDGE </h3>
 
 <p align="center">
-<img src=".github/skill-martmu.gif" high="305" width="350" 	
+<img src=".github/skill-marmu.gif" high="305" width="350" 	
     />	
 </p>  
 
