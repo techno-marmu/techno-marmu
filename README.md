@@ -107,7 +107,7 @@ href="https://www.mathworks.com/" target="_blank"> </a> <a href="https://www.mys
 <h3 align="left">🦋 KNOWLEDGE </h3>
 
 <p align="center">
-<img src=".github/iIsROAEJv7edXE9Myl.gif" high="305" width="350" 	
+<img src=".github/iIsROAEJv7edXE9Myl.gif" high="140" width="160" 	
     />	
 </p>  
 
