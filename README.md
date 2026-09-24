@@ -75,9 +75,12 @@ src="https://readme-typing-svg.herokuapp.com/?font=Comic+Sans+MS&size=40&duratio
 
 ![marmu](.github/skill-marmu.gif)
 
-_Digital Craftsman_
+_🇲🇲 Digital Craftsman 🇲🇲_
+
 👾 Ai Technologist  
+
 👨‍💻 Developer 
+
 🎖️ Programmer
 
 <ul align="left">
@@ -101,10 +104,10 @@ href="https://www.mathworks.com/" target="_blank"> </a> <a href="https://www.mys
 
 
 </div>
-<h3 align="left">🦋KNOWLEDGE </h3>
+<h3 align="left">🦋 KNOWLEDGE </h3>
 
 <p align="center">
-<img src=".github/skill-marmu.gif" high="305" width="350" 	
+<img src=".github/iIsROAEJv7edXE9Myl.gif" high="305" width="350" 	
     />	
 </p>  
 
