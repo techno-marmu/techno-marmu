@@ -52,20 +52,16 @@ src="https://readme-typing-svg.herokuapp.com/?font=Comic+Sans+MS&size=40&duratio
 
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font  /> 
+    <img src="https://readme-typing-svg.demolab.com?font /> 
       
-<img src="https://img.shields.io/badge/-Go-%231572B6?style=flat-square&logo=go&logoColor=ffffff">
-    <img src="https://img.shields.io/badge/-Rust-%2300C7B7?style=flat-square&logo=rust&logoColor=ffffff">
-    <img src="https://img.shields.io/badge/-Python-%23E44D27?style=flat-square&logo=python&logoColor=ffffff">
-
 <a href="https://t.me/AiCyberMatrix"><img title="Telegram Channel" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
 
 <a href="https://t.me/joinchat/M4RMU"><img title="Telegram Account" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram"></a>
 	
 	
-[![](https://img.shields.io/badge/M4RMU-T3RMU×-lightred?style=for-the-badge&logoColor=red&labelColor=black)](https://github.com/techno-marmu)
+[![](https://img.shields.io/badge/Termux-TECHNO_M∆RMU-darkred?style=for-the-badge&logoColor=red&labelColor=lightgreen)](https://github.com/techno-marmu)
 
-[![](https://img.shields.io/badge/GitHub-B4BY_DG-cyan?style=for-the-badge&logoColor=black&labelColor=darkblue)](https://github.com/techno-marmu) 
+[![](https://img.shields.io/badge/GitHub-CoCo_MarMu-cyan?style=for-the-badge&logoColor=black&labelColor=darkblue)](https://github.com/techno-marmu) 
 
 </a>
 
@@ -110,6 +106,10 @@ href="https://www.mathworks.com/" target="_blank"> </a> <a href="https://www.mys
 <img src=".github/flash-dev.gif" high="140" width="160" 	
     />	
 </p>  
+
+<img src="https://img.shields.io/badge/-Go-%231572B6?style=flat-square&logo=go&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/-Rust-%2300C7B7?style=flat-square&logo=rust&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/-Python-%23E44D27?style=flat-square&logo=python&logoColor=ffffff">
 
 <p align="left" <a
   <img
